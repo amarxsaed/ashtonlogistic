@@ -428,6 +428,9 @@ padding-left: 20px;
     height: 100px;
 
     }
+    .ourdispatchinpage{
+     margin: 0;
+    }
 
 }
 
@@ -516,4 +519,8 @@ padding-left: 20px;
 .carousel-inner {
  
   border-radius: 15px;
+}
+.ourdispatchinpage{
+  padding: 10px;
+  margin: 10px;
 }
